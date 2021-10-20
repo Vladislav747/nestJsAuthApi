@@ -32,6 +32,13 @@
 $ npm install
 ```
 
+## Open Swagger Documentation
+
+```bash
+#Открыть
+http://localhost:5001/api
+```
+
 ## Running the app
 
 ```bash
